@@ -1,5 +1,5 @@
 import time
-import smbus2
+import smbus
 import bme280
 
 # BME280 sensor address (default address)
